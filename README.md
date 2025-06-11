@@ -28,7 +28,7 @@ Each project is organized in its own folder and includes:
 
 You can view the projects directly in this repository or clone it locally using:
 
-`git clone https://github.com/jep9731/dataquest-python-portfolio.git`
+`git clone https://github.com/jep9731/personal-python-dataquest-portfolio.git`
 
 ## 📬 Feedback Welcome
 
